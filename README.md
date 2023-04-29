@@ -1,12 +1,12 @@
 # Crypto Recommendation Service - Crypteacher
 
 ##
-`If you're new to cryptocurrencies - don't worry! We are here to help you choose the best cryptocurrency to invest in.
+`If you're new to cryptocurrencies - don't worry! We are here to help you choose the best cryptocurrency to invest in.`
 
-This service provides cryptocurrency price statistics so, you can see what can make you rich and happy!
+`This service provides cryptocurrency price statistics so, you can see what can make you rich and happy!`
 
-Just get started, invest and count your income!
-TO THE MOON!!! ` :rocket:
+`Just get started, invest and count your income!
+TO THE MOON!!! ` :rocket: :rocket: :rocket:
 
 ## Running directly
 
