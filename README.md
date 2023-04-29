@@ -1,9 +1,9 @@
-# Crypto Recommendation Service - crypteacher
+# Crypto Recommendation Service - Crypteacher
 
 ## Running directly
 
 ```sh
-mvn spring-boot:run
+./mvnw spring-boot:run
 ```
 
 ## Creating Docker Image
@@ -17,3 +17,7 @@ docker build -t xm/crypteacher .
 ```sh
 docker run -p 8080:8080 xm/crypteacher
 ```
+
+## Swagger API spec
+
+[http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
