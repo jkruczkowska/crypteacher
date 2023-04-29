@@ -5,8 +5,9 @@
 
 `This service provides cryptocurrency price statistics so, you can see what can make you rich and happy!`
 
-`Just get started, invest and count your income!
-TO THE MOON!!! ` :rocket: :rocket: :rocket:
+`Just get started, invest and count your income!`
+
+### `TO THE MOON!!! ` :rocket: :rocket: :rocket:
 
 ## Running directly
 
