@@ -7,9 +7,13 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+/**
+ * Repository methods of the Crypteacher application.
+ *
+ * @author jkruczkowska
+ */
 @Repository
 public interface CryptoCurrencyRepository extends JpaRepository<CryptoCurrency, Long> {
-    List<CryptoCurrency> findBySymbol(String symbol);
     CryptoCurrency findTopBySymbolOrderByPriceDesc(String symbol);
     CryptoCurrency findTopBySymbolOrderByPriceAsc(String symbol);
     CryptoCurrency findTopBySymbolOrderByDatetimeDesc(String symbol);

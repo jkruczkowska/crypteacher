@@ -22,10 +22,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO description
+ * Controller provided to extract the required data using the declared endpoints.
  *
- * @author joanna
+ * @author jkruczkowska
  */
+
 @Api(value = "Cryptocurrency Rest Controller")
 @RestController
 @RequestMapping("/currency")

@@ -10,9 +10,9 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
 /**
- * TODO description
+ * CryptoCurrency entity model.
  *
- * @author joanna
+ * @author jkruczkowska
  */
 
 @Entity

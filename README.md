@@ -1,4 +1,4 @@
-# Crypto Recommendation Service - Crypteacher
+# Crypto Recommendation Service - crypteacher
 
 ## Running directly
 

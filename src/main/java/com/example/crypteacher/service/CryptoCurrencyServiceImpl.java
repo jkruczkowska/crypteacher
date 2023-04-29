@@ -16,7 +16,7 @@ import java.util.Objects;
 import java.util.stream.Collectors;
 
 /**
- * Service provided to return data
+ * Service implementation provided to return data
  * depending on user params input.
  *
  * @author jkruczkowska

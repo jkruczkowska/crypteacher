@@ -10,20 +10,10 @@ import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
-import static springfox.documentation.builders.PathSelectors.regex;
-/**
- * TODO description
- *
- * @author joanna
- */
 @Configuration
 @EnableSwagger2
 public class SpringFoxConfig {
-    /**
-     * Method to set paths to be included through swagger
-     *
-     * @return Docket
-     */
+
     @Bean
     public Docket configApi() {
         return new Docket(DocumentationType.SWAGGER_2)
@@ -33,12 +23,6 @@ public class SpringFoxConfig {
                 .build();
     }
 
-
-    /**
-     * Method to set swagger info
-     *
-     * @return ApiInfoBuilder
-     */
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("Crypteacher")
